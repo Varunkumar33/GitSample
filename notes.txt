@@ -1,0 +1,6 @@
+public class Test1{
+  @test
+  void method1{
+    assert();
+  }
+}
